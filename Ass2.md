@@ -1,22 +1,22 @@
 
 ## Table of Contents
 
- - [1.0 Purpose of the review](#10-purpose-of-the-review)
- - [2.0 Subject of the review](#20-subject-of-the-review)
- - [3.0 Question set for review](#30-question-set-for-review)
- - [4.0 Review plan](#40-review-plan)
- - [5.0 Analysis and summary of review](#50-analysis-and-summary-of-review)
+ - [1.0 Purpose of the review](#1-purpose-of-the-review)
+ - [2.0 Subject of the review](#2-subject-of-the-review)
+ - [3.0 Question set for review](#3-question-set-for-review)
+ - [4.0 Review plan](#4-review-plan)
+ - [5.0 Analysis and summary of review](#5-analysis-and-summary-of-review)
 
 
-## 1.0 Purpose of the review
+## 1. Purpose of the review
 
 This document provides a comprehensive assessment of architectural documentation of Swagger UI system by answering a specific set of questions. The purpose of this review is to convey worthiness of the documentation to the senior project developers/lead of the system. This will critique the good and bad artifacts of the AD with respect to answering the key quality attribute questions of the system and will suggest potential future roadmap.
 
-## 2.0 Subject of the review
+## 2. Subject of the review
 
 The subject of this review is the architecture documentation created by team for Swagger UI system. The architecture document must provide sufficient details to convey various aspects of the system and key quality attributes for review.
 
-## 3.0 Question set for review
+## 3. Question set for review
 
 <table>
 
@@ -58,7 +58,7 @@ The subject of this review is the architecture documentation created by team for
 
 
 
-## 4.0 Review plan
+## 4. Review plan
 
 
-## 5.0 Analysis and summary of review
+## 5. Analysis and summary of review
