@@ -41,7 +41,7 @@ The subject of this review is the architecture documentation created by team for
   8. Are the ASRs that the system must satisfy clearly articulated and prioritized according to their impact on the architecture? </br></br>
   9. Can you determine the views necessary to analyze key quality attributes? Does the AD provide the views necessary to cover each QAS? </br></br>
   10. Are you able to identify key behavioral properties of the system? </br></br>
-  11. Are any points of variation to the system captured in the AD?
+  11. Are any points of variation to the system captured in the AD? </br></br>
   12. Are the relationships between system and external components explicitly documented? </br></br>
   13. Does the AD contain the rationale for its architectural decisions? </br></br>
   14. Is it clear how the architecture fulfills the other requirements that are not ASRs? </br>
