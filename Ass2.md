@@ -84,12 +84,12 @@ Role of each stakeholder of a system is vital because actions of whom define the
 
 
 **Q3. Is there a clear understanding of the quality attributes that the architecture must satisfy?** </br>
-Out of all the quality attributes relevant to the Swagger UI system, 7 prioritized ones are mentioned in the AD defined in correspondence to architecturally sgnificant requirements. Depicting quality attributes in correspondence to ASRs is the best way to analyse the systems key quality attributes. Out of these 7 prioritized attributes, 3 key quality attributes were detailed into quality attribute scenario template format to calculate various aspects taking various scenario for the system. </br>
+Out of all the quality attributes relevant to the Swagger UI system, 7 prioritized ones are mentioned in the AD defined in correspondence to architecturally sgnificant requirements. Depicting quality attributes in correspondence to ASRs is the best way to analyse the systems key quality attributes. Out of these 7 prioritized attributes, 3 key quality attributes (performance, usability and reliability) were detailed into quality attribute scenario template format to calculate various aspects taking various scenario for the system. </br>
 Using scenarios and the utility tree is very helpful and great way to enhance the quality of the architecture in the long run. These artifacts also clearly supply the needed understanding of the quality attributes of the system. </br></br>
 
 
 **Q4. Are the quality attributes measurable?** </br>
-Quality attributes in the AD is evaluated using the utlity tree and quality attribute scenarios for 3 key quality attributes to the system. The quality attribute scenaarios provides a scenario for each of 3 key quality atributes evaluated with factors such as stimulus, stimulus source, response and response measure. Both Utility tree and QAS are helpful to justify that these quality attributes are measurable. </br></br>
+Quality attributes in the AD is evaluated using the utlity tree and quality attribute scenarios for 3 key quality attributes to the system. The quality attribute scenaarios provides a scenario for each of 3 key quality atributes evaluated with factors such as stimulus, stimulus source, response and response measure. Both Utility tree and QAS are sufficient to justify that these quality attributes are measurable. </br></br>
 
 
 **Q5. Are the quality attributes achievable?** </br>
