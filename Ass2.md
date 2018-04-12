@@ -35,7 +35,7 @@ The subject of this review is the architecture documentation created by team for
   2. Is the context of the system (or subsystem) clearly defined? </br></br>
   3. Have the stakeholders and their concerns been clearly defined? </br></br>
   4. Is there a clear understanding of the quality attributes that the architecture must satisfy? </br></br>
-  5. Are the quality attribtes measurable? </br></br>
+  5. Are the quality attributes measurable? </br></br>
   6. Are the quality attributes achievable? </br></br>
   7. Are any of the quality attributes urealistic? </br></br>
   8. Are the ASRs that the system must satisfy clearly articulated and prioritized according to their impact on the architecture? </br></br>
