@@ -70,6 +70,9 @@ An architecture evaluation is concerned with answering what, why and how to eval
 
 ## 4. Plan for the review
 
+Planning of review include first to get familiarize with the Swagger UI system by reading project document. The team architecture document needs to be acquired.
+The review could be planned accorss the life cycle when there is need of architecture to be evaluated.
+The review is very short phase of time as 3 hours. The results of the review will be communicated in the format of questions and answer. The questions are from the question set chosen.
 
 ## 5. Analysis and summary of review
 
