@@ -1,11 +1,11 @@
 
 ## Table of Contents
 
- - [1.0 Purpose of the review](#1-purpose-of-the-review)
- - [2.0 Subject of the review](#2-subject-of-the-review)
- - [3.0 Question set for review](#3-question-set-for-review)
- - [4.0 Review plan](#4-review-plan)
- - [5.0 Analysis and summary of review](#5-analysis-and-summary-of-review)
+ 1. [Purpose of the review](#1-purpose-of-the-review)
+ 2. [Subject of the review](#2-subject-of-the-review)
+ 3. [Question set for review](#3-question-set-for-review)
+ 4. [Review plan](#4-review-plan)
+ 5. [Analysis and summary of review](#5-analysis-and-summary-of-review)
 
 
 ## 1. Purpose of the review
