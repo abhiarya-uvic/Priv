@@ -11,8 +11,7 @@ By Abhishek Arya V00848888
  4. [Plan for the review](#4-plan-for-the-review)
  5. [Analysis and summary of review](#5-analysis-and-summary-of-review)
     + [Analysis of the result](#51-analysis-of-the-result)
-    + [The good and the bad](#52-the-good-and-the-bad)
-    + [Potential future roadmap](#53-potential-future-roadmap)
+    + [Summary and potential future roadmap](#52-summary-and-potential-future-roadmap)
 
 
 ## 1. Purpose of the review
@@ -84,6 +83,5 @@ Total 11 business goals are articulated in the AD which depicts quite important 
 Role of each stakeholder of a system is vital because actions of whom define the outcome of the business decisions. In the system AD, role and corresponding concern of the stakeholder is defined in a tabular form which provides better readable format. The role, as the name suggest, categorize the identity of a stakeholder and concern elaborates the role. However, this format on many occasion misses the specific names of key stakeholders to the system. Also, this format could be extended to where "instances" could be added in addition to role and concern which could clearly mention the current corresponding instance of a stakeholder such as the names of core management individuals.
 
 
-### 5.2 The good and the bad
+### 5.2 Summary and potential future roadmap
 
-### 5.3 Potential future roadmap
