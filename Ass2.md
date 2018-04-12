@@ -41,7 +41,7 @@ An architecture evaluation is concerned with answering what, why and how to eval
   4. Is there a clear understanding of the quality attributes that the architecture must satisfy? </br></br>
   5. Are the quality attributes measurable? </br></br>
   6. Are the quality attributes achievable? </br></br>
-  7. Are any of the quality attributes urealistic? </br></br>
+  7. Are any of the quality attributes unrealistic? </br></br>
   8. Are the ASRs that the system must satisfy clearly articulated and prioritized according to their impact on the architecture? </br></br>
   9. Can you determine the views necessary to analyze key quality attributes? Does the AD provide the views necessary to cover each QAS? </br></br>
   10. Are you able to identify key behavioral properties of the system? </br></br>
