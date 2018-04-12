@@ -36,7 +36,7 @@ An architecture evaluation is concerned with answering what, why and how to eval
   <tr>
   <td>
   1. Are the business goals of system clearly articulated and prioritized?</br></br>
-  2. Is the context of the system (or subsystem) clearly defined? </br></br>
+  2. Is the context of the system clearly defined? </br></br>
   3. Have the stakeholders and their concerns been clearly defined? </br></br>
   4. Is there a clear understanding of the quality attributes that the architecture must satisfy? </br></br>
   5. Are the quality attributes measurable? </br></br>
