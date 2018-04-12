@@ -47,7 +47,6 @@ An architecture evaluation is concerned with answering what, why and how to eval
   11. Are the relationships between system and external components explicitly documented? </br></br>
   12. Does the AD contain the rationale for its architectural design decisions? </br></br>
   13. Can the AD support analysis of interfaces of other systems and their architectures? Does it define the relationship with other dependent architectures? </br></br>
-  14. Are there any known inconsistencies to the system documented in AD? </br>
   </td>
   
   <td>Project Leads</td>
