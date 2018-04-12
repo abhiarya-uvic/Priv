@@ -48,7 +48,7 @@ The subject of this review is the architecture documentation created by team for
   15. Are there any known inconsistencies to the system documented in AD? </br>
   </td>
   
-  <td>Logical not</td>
+  <td>Positive answers are expected and the respondets must be able to identify places and elements in the AD which can justify their response to support results.</td>
   
   <td>&&</td>
   
