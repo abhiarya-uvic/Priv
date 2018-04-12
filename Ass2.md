@@ -112,7 +112,12 @@ The AD does not provide views to cover each QAS. The views utilized in the AD co
 **Q9. Are you able to identify key behavioral properties of the system?**</br>
 Yes, behavior of the system is clearly mentioned in the AD for the system using two views mentioned (module view and C&C view). A procedural sequence diagram to specify and construct react rendering mechanism in Swagger-UI for module view.
 Another behavior diagram is mentioned to depict key brhavior activity of the system to present the dynamic aspects of the system. This is achieved in AD as presenting state based static state charts for C&C view.
-The states and substates are mentioned appropriately in the AD in regards to C&C view to conform behavior of the system.
+The states and substates are mentioned appropriately in the AD in regards to C&C view to conform behavior of the system.</br></br>
+
+
+**Q10. Are any points of variation to the system captured in the AD?**</br>
+Yes, variability to the system is shown with regards to C&C view of the system. The three possible variation points to the system are captured as Add or Remove Validator, Add or Remove API Server and Add or Remove YAML Config Server.</br></br>
+
 
 
 ### 5.2 Summary and potential future roadmap
