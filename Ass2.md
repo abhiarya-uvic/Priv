@@ -95,5 +95,9 @@ Quality attributes in the AD is evaluated using the utlity tree and quality attr
 **Q5. Are the quality attributes achievable?** </br>
 Yes, the key quality attributes mentioned in the AD are achievable as depicted in QAS tables and utility tree in correspondence to the system. </br></br>
 
+
+**Q6. Are any of the quality attributes unrealistic?** </br>
+No, there isn't any quality attribute metioned unrealistic. The key quality attributes in AD could be broken down into scenarios and are measurable and achievable. </br></br>
+
 ### 5.2 Summary and potential future roadmap
 
