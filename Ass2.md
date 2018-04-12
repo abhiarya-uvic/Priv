@@ -53,7 +53,7 @@ An architecture evaluation is concerned with answering what, why and how to eval
   
   <td>Positive answers are expected and the respondents must be able to identify places and elements in the AD which can justify their response to support results.</td>
   
-  <td>Questions are most critical that address areas of high risk are:</br>
+  <td>Questions that are most critical that address areas of high risk are:</br>
 
 - Clear understanding of the quality attributes that the architecture must satisfy.</br>
 - ASRs that the system must satisfy clearly articulated and prioritized according to their impact on the architecture.</br>
