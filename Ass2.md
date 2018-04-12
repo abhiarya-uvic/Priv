@@ -124,7 +124,14 @@ The context diagram for module view shows how Swagger-UI interacts with external
 While, for C&C view, the context diagram shows various components, external tools, and frameworks that interact with Swagger-UI during runtime rendering.</br></br>
 
 **Q12. Does the AD contain the rationale for its architectural design decisions?**</br>
-Rationale is mentioned in AD to articulate why designers organized the system's modules and runtime components this way. The two rationale for module view and C&C view is well-reasoned with few assumptions mentioned. Both the rationale is in regards with QAS mentioned in for the views i.e. for Performance QA.</br>
+Rationale is mentioned in AD to articulate why designers organized the system's modules and runtime components this way. The two rationale for module view and C&C view is well-reasoned with few assumptions mentioned. Both the rationale is in regards with QAS mentioned in for the views i.e. for Performance QA.</br></br>
+
+
+**Q13. Can the AD support analysis of interfaces of other systems and their architectures? Does it define the relationship with other dependent architectures?**</br>
+
+Interface is usually the point where two component communicate with each other. It could be internal or external to the system but independent from each other. AD's module view shows header and curl modules of the system to present interfaces to modules of the system. There are two interface descriptions mentioned in the AD for C&C view of the system. They are for SwaggerUI Requests OAS Specs, and SwaggerUi Starts/Updates React Structure.</br>
+Performance and maintainability are the two key QA which are articulated here for interface diagrams.</br>
+Hence, this AD supports the analysis of interfaces. However, It does not analyses the architecture of external components to the system which are communicated using interface.</br></br>
 
 
 
