@@ -118,6 +118,13 @@ The states and substates are mentioned appropriately in the AD in regards to C&C
 **Q10. Are any points of variation to the system captured in the AD?**</br>
 Yes, variability to the system is shown with regards to C&C view of the system. The three possible variation points to the system are captured as Add or Remove Validator, Add or Remove API Server and Add or Remove YAML Config Server.</br></br>
 
+**Q11. Are the relationships between system and external components explicitly documented?**</br> 
+
+Relationship of the system with external components are described in AD using context diagram in regards with module view and C&C view.
+The context diagram for module view shows how Swagger-UI interacts with external tools and frameworks.
+While, for C&C view, the context diagram shows various components, external tools, and frameworks that interact with Swagger-UI during runtime rendering.</br></br
+
+
 
 
 ### 5.2 Summary and potential future roadmap
