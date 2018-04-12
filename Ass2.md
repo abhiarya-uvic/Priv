@@ -99,5 +99,9 @@ Yes, the key quality attributes mentioned in the AD are achievable as depicted i
 **Q6. Are any of the quality attributes unrealistic?** </br>
 No, there isn't any quality attribute metioned unrealistic. The key quality attributes in AD could be broken down into scenarios and are measurable and achievable. </br></br>
 
+**Q7. Are the ASRs that the system must satisfy clearly articulated and prioritized according to their impact on the architecture?** </br>
+The ASRs to the system are mentioned in AD in correspondence to the quality attributes. Each of the ASRs are very clear to understand as these are mentioned with reference to the source. For example an ASR mentioned as "Assure that the stack trace is fully provided to aid in tracking down bugs." in the ASR table has source of a Swagger UI documentation. All the sources makes it very legit and easy to articulate.  </br>
+Prioritization is done on the basis of corresponding quality attribute. The 7 quality attrbutes mentioned are the important ones to the system, hence the ASRs accordingly. </br> </br>
+
 ### 5.2 Summary and potential future roadmap
 
