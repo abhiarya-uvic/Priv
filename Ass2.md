@@ -1,0 +1,53 @@
+
+
+
+## 1.0 Purpose of the review
+
+This document provides a comprehensive assessment of architectural documentation of Swagger UI system by answering a specific set of questions. The purpose of this review is to convey worthiness of the documentation to the senior project developers/lead of the system. This will critique the good and bad artifacts of the AD with respect to answering the key quality attributes of the system and will suggest potential future roadmap.
+
+## 2.0 Subject of the review
+
+The subject of this review is the architecture documentation created by team for Swagger UI system. The architecture document must provide sufficient details to convey various aspects of the system and key quality attributes for review.
+
+## 3.0 Review question set
+
+
+<table>
+
+  <tr><td colspan=4><b>1. Question set name:</b> Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test</td></tr>
+  <tr><td colspan=4><b>2. Purpose:</b> Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test</td></tr>
+  <tr><td colspan=4><b>3. Stakeholders and concerns:</b> Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test</td></tr>
+  <tr><td><b>4. Questions</b></td><td><b>4a. Respondents</b></td><td><b>4b. Expected answers</b></td><td><b>4c. Criticality</b></td></tr>
+  
+  <tr>
+  <td>
+  1. Are the business goals the system clearly articulated and prioritized?</br></br>
+  2. Is the context of the system (or subsystem) clearly defined? </br></br>
+  3. Have the stakeholders and their concerns been clearly defined? </br></br>
+  4. Is there a clear understanding of the quality attributes that the architecture must satisfy? </br></br>
+  5. Are the quality attribtes measurable? </br></br>
+  6. Are the quality attributes achievable? </br></br>
+  7. Are any of the quality attributes urealistic? </br></br>
+  8. Are the ASRs that the system must satisfy clearly articulated and prioritized according to their impact on the architecture? </br></br>
+  9. Are all revelevant architectural views documented? </br></br>
+  </td>
+  
+  <td>Logical not</td>
+  
+  <td>&&</td>
+  
+  <td>Logical and</td>
+  
+  </tr>
+  
+  <tr><th colspan=4>Logical Operators</th></tr>
+  
+  
+</table>
+
+
+
+## 4.0 Review plan
+
+
+## 5.0 Analysis and summary of review
