@@ -56,7 +56,7 @@ The subject of this review is the architecture documentation created by team for
   
   </tr>
   
-  <tr>Logical Operators</tr>
+  <tr><td>Logical Operators</td></tr>
   
   
 </table>
