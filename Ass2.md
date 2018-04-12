@@ -60,7 +60,7 @@ An architecture evaluation is concerned with answering what, why and how to eval
   
   </tr>
   
-  <tr><td colspan=4>Logical Operators</td></tr>
+  <tr><td colspan=4><b>Advice:</b>The same set of questions could be shared with new comer to the project to have better understanding in evaluating system architecture in regards to key quality attributes and also concerns such as does this AD meet all of the conformance points? Can this conformance be verified?</td></tr>
   
   
 </table>
