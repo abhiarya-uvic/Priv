@@ -28,7 +28,7 @@ The subject of this review is the architecture documentation created by team for
 <table align="left">
 
   <tr><td colspan=4><b>1. Question set name:</b> Evaluating system with key quality attributes.</td></tr>
-  <tr><td colspan=4><b>2. Purpose:</b> Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test</td></tr>
+  <tr><td colspan=4><b>2. Purpose:</b> This question set could be utilized to check whether the architecture document is ready to be evaluated to answer key quality attribute questions. The questions helps to assess if the document contains sufficient information defining its quality and completeness and its suitability to be presented at an architecture review board.</td></tr>
   <tr><td colspan=4><b>3. Stakeholders and concerns:</b> Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test</td></tr>
   <tr><td><b>4. Questions</b></td><td><b>4a. Respondents</b></td><td><b>4b. Expected answers</b></td><td><b>4c. Criticality</b></td></tr>
   
