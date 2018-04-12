@@ -80,8 +80,12 @@ Remarks/references section provide link to an artifact of system(such as Swagger
 Total 11 business goals are articulated in the AD which depicts quite important business goal aspects of the system and so is very well prioritized among other secondary goals. </br></br>
 
 **Q2. Have the stakeholders and their concerns been clearly defined?** </br>
-Role of each stakeholder of a system is vital because actions of whom define the outcome of the business decisions. In the system AD, role and corresponding concern of the stakeholder is defined in a tabular form which provides better readable format. The role, as the name suggest, categorize the identity of a stakeholder and concern elaborates the role. However, this format on many occasion misses the specific names of key stakeholders to the system. Also, this format could be extended to where "instances" could be added in addition to role and concern which could clearly mention the current corresponding instance of a stakeholder such as the names of core management individuals.
+Role of each stakeholder of a system is vital because actions of whom define the outcome of the business decisions. In the system AD, role and corresponding concern of the stakeholder is defined in a tabular form which provides better readable format. The role, as the name suggest, categorize the identity of a stakeholder and concern elaborates the role. However, this format on many occasion misses the specific names of key stakeholders to the system. Also, this format could be extended to where "instances" could be added in addition to role and concern which could clearly mention the current corresponding instance of a stakeholder such as the names of core management individuals. </br></br>
 
+
+**Q3. Is there a clear understanding of the quality attributes that the architecture must satisfy?**
+Out of all the quality attributes relevant to the Swagger UI system, 7 prioritized ones are mentioned in the AD defined in correspondence to architecturally sgnificant requirements. Depicting quality attributes in correspondence to ASRs is the best way to analyse the systems key quality attributes. Out of these 7 prioritized attributes, 3 key quality attributes were detailed into quality attribute scenario template format to calculate various aspects taking various scenario for the system. 
+Using scenarios and the utility tree is very helpful and great way to enhance the quality of the architecture in the long run. These artifacts also clearly supply the needed understanding of the quality attributes of the system.
 
 ### 5.2 Summary and potential future roadmap
 
