@@ -9,7 +9,7 @@ This document provides a comprehensive assessment of architectural documentation
 
 The subject of this review is the architecture documentation created by team for Swagger UI system. The architecture document must provide sufficient details to convey various aspects of the system and key quality attributes for review.
 
-## 3.0 Review question set
+## 3.0 Question set for review
 
 
 <table>
@@ -30,6 +30,7 @@ The subject of this review is the architecture documentation created by team for
   7. Are any of the quality attributes urealistic? </br></br>
   8. Are the ASRs that the system must satisfy clearly articulated and prioritized according to their impact on the architecture? </br></br>
   9. Are all revelevant architectural views documented? </br></br>
+  10. Does the AD contain the rationale for its architectural decisions? </br></br>
   </td>
   
   <td>Logical not</td>
