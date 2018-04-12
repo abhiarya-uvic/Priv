@@ -2,7 +2,7 @@
 
 ## 1.0 Purpose of the review
 
-This document provides a comprehensive assessment of architectural documentation of Swagger UI system by answering a specific set of questions. The purpose of this review is to convey worthiness of the documentation to the senior project developers/lead of the system. This will critique the good and bad artifacts of the AD with respect to answering the key quality attributes of the system and will suggest potential future roadmap.
+This document provides a comprehensive assessment of architectural documentation of Swagger UI system by answering a specific set of questions. The purpose of this review is to convey worthiness of the documentation to the senior project developers/lead of the system. This will critique the good and bad artifacts of the AD with respect to answering the key quality attribute questions of the system and will suggest potential future roadmap.
 
 ## 2.0 Subject of the review
 
