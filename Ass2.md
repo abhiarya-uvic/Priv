@@ -24,7 +24,7 @@ The subject of this review is the architecture documentation created by team for
 
 <table align="left">
 
-  <tr><td colspan=4><b>1. Question set name:</b> Evaluating key quality attributes.</td></tr>
+  <tr><td colspan=4><b>1. Question set name:</b> Evaluating system with key quality attributes.</td></tr>
   <tr><td colspan=4><b>2. Purpose:</b> Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test</td></tr>
   <tr><td colspan=4><b>3. Stakeholders and concerns:</b> Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test</td></tr>
   <tr><td><b>4. Questions</b></td><td><b>4a. Respondents</b></td><td><b>4b. Expected answers</b></td><td><b>4c. Criticality</b></td></tr>
