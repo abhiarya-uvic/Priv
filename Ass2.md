@@ -10,9 +10,9 @@ By Abhishek Arya V00848888
  3. [Question set for review](#3-question-set-for-review)
  4. [Review plan](#4-review-plan)
  5. [Analysis and summary of review](#5-analysis-and-summary-of-review)
-    - [Analysis of the result](#51-analysis-of-the-result)
-    - [The good and the bad](#52-the-good-and-the-bad)
-    - [Potential future roadmap](#53-potential-future-roadmap)
+    + [Analysis of the result](#51-analysis-of-the-result)
+    + [The good and the bad](#52-the-good-and-the-bad)
+    + [Potential future roadmap](#53-potential-future-roadmap)
 
 
 ## 1. Purpose of the review
