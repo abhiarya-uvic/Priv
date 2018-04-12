@@ -136,3 +136,11 @@ Hence, this AD supports the analysis of interfaces. However, It does not analyse
 
 ### 5.2 Summary and potential future roadmap
 
+To summarize, the AD of the system answers most of the detail and questions related to the key quality attributes of Swagger UI. The AD is optimum for evaluation of key quality attributes. The good and the bad parts of the document are mentioned by answering the question set above.</br>
+
+There could be a potential future roadmap for the AD to have better detail and efficient in anwering the questions as mentioned below,</br>
+
+1. Current views could be extended or addition of more views could provide answers to other key QA mentioned in the AD such as usability and reliability.</br>
+2. Business goals could be articulated with better detail of references.</br>
+3. Instances of key stakeholders could be mentioned with specific detail.</br></br>
+
