@@ -23,13 +23,14 @@ This document provides a comprehensive assessment of architectural documentation
 
 The subject of this review is the architecture documentation created by team for Swagger UI system. The architecture document must provide sufficient details to convey various aspects of the system and key quality attributes for review.
 
-## 3. Question set for review
+## 3. Question set for the review
 
 <table align="left">
 
   <tr><td colspan=4><b>1. Question set name:</b> Evaluating system with key quality attributes.</td></tr>
   <tr><td colspan=4><b>2. Purpose:</b> This question set could be utilized to check whether the architecture document is ready to be evaluated to answer key quality attribute questions. The questions helps to assess if the document contains sufficient information defining its quality and completeness and its suitability to be presented at an architecture review board.</td></tr>
-  <tr><td colspan=4><b>3. Stakeholders and concerns:</b> Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test</td></tr>
+  <tr><td colspan=4><b>3. Stakeholders and concerns:</b> The lead of the project is concerned with whether the document provides sufficient information for evaluation and usability of the AD. The project lead would like to utilize the AD to take design decision in terms if the system satisfies key quality attributes. 
+An architecture evaluation is concerned with answering what, why and how to evaluate, and whether the AD supplies sufficient information for analysis.</td></tr>
   <tr><td><b>4. Questions</b></td><td><b>4a. Respondents</b></td><td><b>4b. Expected answers</b></td><td><b>4c. Criticality</b></td></tr>
   
   <tr>
@@ -66,7 +67,7 @@ The subject of this review is the architecture documentation created by team for
 
 
 
-## 4. Review plan
+## 4. Plan for the review
 
 
 ## 5. Analysis and summary of review
