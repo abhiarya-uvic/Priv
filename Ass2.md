@@ -1,6 +1,5 @@
 
 
-
 ## 1.0 Purpose of the review
 
 This document provides a comprehensive assessment of architectural documentation of Swagger UI system by answering a specific set of questions. The purpose of this review is to convey worthiness of the documentation to the senior project developers/lead of the system. This will critique the good and bad artifacts of the AD with respect to answering the key quality attributes of the system and will suggest potential future roadmap.
@@ -10,7 +9,6 @@ This document provides a comprehensive assessment of architectural documentation
 The subject of this review is the architecture documentation created by team for Swagger UI system. The architecture document must provide sufficient details to convey various aspects of the system and key quality attributes for review.
 
 ## 3.0 Question set for review
-
 
 <table>
 
@@ -29,8 +27,10 @@ The subject of this review is the architecture documentation created by team for
   6. Are the quality attributes achievable? </br></br>
   7. Are any of the quality attributes urealistic? </br></br>
   8. Are the ASRs that the system must satisfy clearly articulated and prioritized according to their impact on the architecture? </br></br>
-  9. Are all revelevant architectural views documented? </br></br>
-  10. Does the AD contain the rationale for its architectural decisions? </br></br>
+  9. Can you determine the views necessary to analyze key quality attributes? Does the AD provide the views necessary to cover each QAS? </br></br>
+  10. Are the relationships between system and external components explicitly documented? </br></br>
+  11. Does the AD contain the rationale for its architectural decisions? </br></br>
+  12. Is it clear how the architecture fulfills the other requirements that are not ASRs? </br>
   </td>
   
   <td>Logical not</td>
