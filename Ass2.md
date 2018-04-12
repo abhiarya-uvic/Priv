@@ -67,3 +67,9 @@ The subject of this review is the architecture documentation created by team for
 
 
 ## 5. Analysis and summary of review
+
+### 5.1 Analysis of the result
+
+### 5.2 Summary with the good and the bad
+
+### 5.3 Potential future roadmap
