@@ -76,7 +76,9 @@ An architecture evaluation is concerned with answering what, why and how to eval
 
 **Q1. Are the business goals of system clearly articulated and prioritized?** </br>
 Business goals of the system are very well categorized into three sections: Goal-object, Goal and Remarks/references. The goal-object puts the business goal into its most condensed category which makes the evaluation of business goals effective. 
-Remarks/references section provide link to an artifact of system (such as Swagger UI's home page, Blog page, etc.) for each of the business goal which tries to provide evidence for each of the goal. However, it fails to deliver clear understanding on why the specific reference is related to the corresponding business goal. Rather, it should provide a more specific reference on the particular referred link to create clear understanding.
+Remarks/references section provide link to an artifact of system(such as Swagger UI's home page, Blog page, etc.) for each of the business goal which tries to provide evidence for each of the goal. However, it fails to deliver clear understanding on why the specific reference is related to the corresponding business goal.</br>
+
+Total 11 business goals are articulated in the AD which depicts quite important business goal aspects of the system and so is very well prioritized among other secondary goals.
 
 
 ### 5.2 The good and the bad
