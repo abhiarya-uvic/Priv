@@ -78,7 +78,10 @@ An architecture evaluation is concerned with answering what, why and how to eval
 Business goals of the system are very well categorized into three sections: Goal-object, Goal and Remarks/references. The goal-object puts the business goal into its most condensed category which makes the evaluation of business goals effective. 
 Remarks/references section provide link to an artifact of system(such as Swagger UI's home page, Blog page, etc.) for each of the business goal which tries to provide evidence for each of the goal. However, it fails to deliver clear understanding on why the specific reference is related to the corresponding business goal.</br>
 
-Total 11 business goals are articulated in the AD which depicts quite important business goal aspects of the system and so is very well prioritized among other secondary goals.
+Total 11 business goals are articulated in the AD which depicts quite important business goal aspects of the system and so is very well prioritized among other secondary goals. </br></br>
+
+**2. Have the stakeholders and their concerns been clearly defined?**
+Role of each stakeholder of a system is vital because actions of whom define the outcome of the business decisions. In the system AD, role and corresponding concern of the stakeholder is defined in a tabular form which provides better readable format. The role, as the name suggest, categorize the identity of a stakeholder and concern elaborates the role. However, this format on many occasion misses the specific names of key stakeholders to the system. Also, this format could be extended to where "instances" could be added in addition to role and concern which could clearly mention the current corresponding instance of a stakeholder such as the names of core management individuals.
 
 
 ### 5.2 The good and the bad
