@@ -89,7 +89,7 @@ Using scenarios and the utility tree is very helpful and great way to enhance th
 
 
 **Q4. Are the quality attributes measurable?** </br>
-Quality attributes in the AD is evaluated using the utlity tree and quality attribute scenario for 3 key quality attribute to the system. The quality attribute scenaario provides a scenario evaluated with factors such as stimulus, stimulus source, response and response measure. Both Utility tree and QAS are helpful to justify that these quality attributes are measurable.
+Quality attributes in the AD is evaluated using the utlity tree and quality attribute scenarios for 3 key quality attributes to the system. The quality attribute scenaarios provides a scenario for each of 3 key quality atributes evaluated with factors such as stimulus, stimulus source, response and response measure. Both Utility tree and QAS are helpful to justify that these quality attributes are measurable.
 
 ### 5.2 Summary and potential future roadmap
 
