@@ -122,7 +122,7 @@ Yes, variability to the system is shown with regards to C&C view of the system. 
 
 Relationship of the system with external components are described in AD using context diagram in regards with module view and C&C view.
 The context diagram for module view shows how Swagger-UI interacts with external tools and frameworks.
-While, for C&C view, the context diagram shows various components, external tools, and frameworks that interact with Swagger-UI during runtime rendering.</br></br
+While, for C&C view, the context diagram shows various components, external tools, and frameworks that interact with Swagger-UI during runtime rendering.</br></br>
 
 
 
