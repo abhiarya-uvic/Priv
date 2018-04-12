@@ -21,7 +21,7 @@ The subject of this review is the architecture documentation created by team for
   
   <tr>
   <td>
-  1. Are the business goals the system clearly articulated and prioritized?</br></br>
+  1. Are the business goals of system clearly articulated and prioritized?</br></br>
   2. Is the context of the system (or subsystem) clearly defined? </br></br>
   3. Have the stakeholders and their concerns been clearly defined? </br></br>
   4. Is there a clear understanding of the quality attributes that the architecture must satisfy? </br></br>
