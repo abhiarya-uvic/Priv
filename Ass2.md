@@ -42,13 +42,12 @@ An architecture evaluation is concerned with answering what, why and how to eval
   6. Are any of the quality attributes unrealistic? </br></br>
   7. Are the ASRs that the system must satisfy clearly articulated and prioritized according to their impact on the architecture? </br></br>
   8. Can you determine the views necessary to analyze key quality attributes? Does the AD provide the views necessary to cover each QAS? </br></br>
-  9. Is the system context clearly defined in the document? </br></br>
-  10. Are you able to identify key behavioral properties of the system? </br></br>
-  11. Are any points of variation to the system captured in the AD? </br></br>
-  12. Are the relationships between system and external components explicitly documented? </br></br>
-  13. Does the AD contain the rationale for its architectural design decisions? </br></br>
-  14. Can the AD support analysis of interfaces of other systems and their architectures? Does it define the relationship with other dependent architectures? </br></br>
-  15. Are there any known inconsistencies to the system documented in AD? </br>
+  9. Are you able to identify key behavioral properties of the system? </br></br>
+  10. Are any points of variation to the system captured in the AD? </br></br>
+  11. Are the relationships between system and external components explicitly documented? </br></br>
+  12. Does the AD contain the rationale for its architectural design decisions? </br></br>
+  13. Can the AD support analysis of interfaces of other systems and their architectures? Does it define the relationship with other dependent architectures? </br></br>
+  14. Are there any known inconsistencies to the system documented in AD? </br>
   </td>
   
   <td>Project Leads</td>
