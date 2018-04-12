@@ -124,7 +124,7 @@ The context diagram for module view shows how Swagger-UI interacts with external
 While, for C&C view, the context diagram shows various components, external tools, and frameworks that interact with Swagger-UI during runtime rendering.</br></br>
 
 **Q12. Does the AD contain the rationale for its architectural design decisions?**</br>
-Again, Rationale is mentioned in AD to decribe why designers organized the system's modules and runtime components this way. The two rationale for module view and C&C view is well-reasoned with few assumptions mentioned. Both the rationale is in regards with QAS mentioned in for the views i.e. for Performance QA.</br>
+Rationale is mentioned in AD to articulate why designers organized the system's modules and runtime components this way. The two rationale for module view and C&C view is well-reasoned with few assumptions mentioned. Both the rationale is in regards with QAS mentioned in for the views i.e. for Performance QA.</br>
 
 
 
