@@ -43,7 +43,7 @@ The subject of this review is the architecture documentation created by team for
   10. Are you able to identify key behavioral properties of the system? </br></br>
   11. Are any points of variation to the system captured in the AD? </br></br>
   12. Are the relationships between system and external components explicitly documented? </br></br>
-  13. Does the AD contain the rationale for its architectural decisions? </br></br>
+  13. Does the AD contain the rationale for its architectural design decisions? </br></br>
   14. Can the AD support analysis of interfaces of other systems and their architectures? Does it define the relationship with other dependent architectures? </br></br>
   15. Are there any known inconsistencies to the system documented in AD? </br>
   </td>
