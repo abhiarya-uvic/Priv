@@ -22,7 +22,7 @@ The subject of this review is the architecture documentation created by team for
 
 ## 3. Question set for review
 
-<table>
+<table align="left">
 
   <tr><td colspan=4><b>1. Question set name:</b> Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test</td></tr>
   <tr><td colspan=4><b>2. Purpose:</b> Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test</td></tr>
